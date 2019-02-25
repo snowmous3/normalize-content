@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/DuardoN/normalize-content/issues"
   },
-  "homepage": "https://github.com/DuardoN/normalize-content#readme"
+  "homepage": "https://github.com/DuardoN/normalize-content#readme",
+  "devDependencies": {
+    "eslint": "^5.7.0",
+    "eslint-config-node-services": "^2.2.5",
+    "eslint-config-wikimedia": "^0.8.1",
+    "eslint-plugin-jsdoc": "^3.9.1",
+    "eslint-plugin-json": "^1.2.1",
+    "nodemon": "^1.18.4"
+  }
 }
