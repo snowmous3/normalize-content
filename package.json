@@ -4,7 +4,6 @@
   "description": "Normalize Content",
   "main": "index.js",
   "scripts": {
-    "install": "index.js",
     "test": "test"
   },
   "repository": {
