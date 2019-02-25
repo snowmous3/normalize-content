@@ -1,0 +1,25 @@
+{
+  "name": "@scope-normalizecontent/normalizecontent",
+  "version": "0.0.1",
+  "description": "Normalize Content",
+  "main": "index.js",
+  "scripts": {
+    "install": "index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DuardoN/normalize-content.git"
+  },
+  "keywords": [
+    "normalize",
+    "content",
+    "text"
+  ],
+  "author": "Eduardo Neves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DuardoN/normalize-content/issues"
+  },
+  "homepage": "https://github.com/DuardoN/normalize-content#readme"
+}
